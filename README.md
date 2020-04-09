@@ -1,2 +1,2 @@
-# prashil.githbu.io
+# prashil.github.io
 website
